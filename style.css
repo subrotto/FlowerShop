@@ -106,6 +106,18 @@ h1{
     margin-left: 20px;
 }
 .eight{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     
+}
+#email{
+    width: 450px;
+    height: 37px;
+    border: none;
+}
+.nine{
+    margin-bottom: 100px;
+    text-align: center;
+    background-image: url(images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
