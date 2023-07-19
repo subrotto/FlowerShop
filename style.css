@@ -15,12 +15,23 @@ h1{
    background-color: skyblue;
    margin-bottom: 100px;
    
+   
 }
+.hei{
+    height: 70vh;
+   
+}
+.nei{
+    height: 50vh;
+}
+
 .flexible2{
     display: flex;
+    
 }
 .half{
     width: 50%;
+   
     margin-left: 50px;
     
 }
@@ -57,7 +68,7 @@ h1{
 }
 .about{
     display: flex;
-    margin: 50px 40px 50px 40px;
+    margin: 150px 40px 50px 40px;
     padding: 20px 15px 20px 15px;
     
     background-color: rgb(193, 186, 186);
