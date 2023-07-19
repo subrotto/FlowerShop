@@ -121,3 +121,15 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.purp{
+    color: purple;
+}
+.ten{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 10px;
+}
+.boro{
+    font-size: 30px;
+}
